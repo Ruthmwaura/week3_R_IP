@@ -1,4 +1,10 @@
-# week3_R_IP
+# Carrefour Kenya 
+
+**Description**
+
+Carrefour Kenya and are currently undertaking a project that will inform the marketing department on the most relevant marketing strategies that will result in the highest no. of sales (total price including tax). This project has been divided into four parts where I'll explore a recent marketing dataset by performing various unsupervised learning techniques and later providing recommendations based on the insights.
+
+
 
 part1 
 
