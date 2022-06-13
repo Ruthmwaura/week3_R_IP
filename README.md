@@ -5,12 +5,13 @@
 
 ## Description
 
-Carrefour Kenya and are currently undertaking a project that will inform the marketing department on the most relevant marketing strategies that will result in the highest no. of sales (total price including tax). This project has been divided into four parts where I'll explore a recent marketing dataset by performing various unsupervised learning techniques and later providing recommendations based on the insights.
+Carrefour Kenya are currently undertaking a project that will inform the marketing department on the most relevant marketing strategies that will result in the highest no. of sales (total price including tax).
+This project has been divided into four parts where I'll explore a recent marketing datasets by performing various unsupervised learning techniques and later provide recommendations based on the insights that will help inform the marketing department on the most relevant marketing strategies.
 
 ## Approach
 
  
-### Part 1:Dimensionality Reduction
+### Part 1:Dimensionality Reduction inform the marketing department on the most relevant marketing strategie
 
 This section of the project entails reducing your dataset to a low dimensional dataset using PCA. I performed analysis and provided insights gained from your analysis.
 
