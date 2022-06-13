@@ -1,4 +1,7 @@
 # Carrefour Kenya 
+![image](https://user-images.githubusercontent.com/98313513/173301003-ebaa8eb3-edc2-4ee7-8da4-96a2202e491b.png)
+
+
 
 ## Description
 
