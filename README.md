@@ -43,8 +43,25 @@ Part 3: Dataset [Link](http://bit.ly/SupermarketDatasetII)
 Part 4: Dataset [Link](http://bit.ly/CarreFourSalesDataset)
 
 ## Technologies used
--Rstudio
--
+
+*Language: R*
+
+*IDE: Rstudio*
+
+## Installation
+
+Download and install R base.
+
+[Windows](https://cran.r-project.org/bin/windows/base/)
+
+[Mac](https://cran.r-project.org/bin/macosx/)
+
+[Linux](https://cran.r-project.org/) 
+
+Download and install Rstudio
+
+[Rstudio](https://www.rstudio.com/products/rstudio/download/)
+
 
 
 
